@@ -1,0 +1,12 @@
+/home/lyn/Documents/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/bin/Debug/MadLib.exe
+/home/lyn/Documents/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/bin/Debug/MadLib.pdb
+/home/lyn/Documents/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/obj/x86/Debug/MadLib.csprojAssemblyReference.cache
+/home/lyn/Documents/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/obj/x86/Debug/MadLib.csproj.CoreCompileInputs.cache
+/home/lyn/Documents/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/obj/x86/Debug/MadLib.exe
+/home/lyn/Documents/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/obj/x86/Debug/MadLib.pdb
+/home/lyn/Desktop/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/bin/Debug/MadLib.exe
+/home/lyn/Desktop/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/bin/Debug/MadLib.pdb
+/home/lyn/Desktop/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/obj/x86/Debug/MadLib.csprojAssemblyReference.cache
+/home/lyn/Desktop/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/obj/x86/Debug/MadLib.csproj.CoreCompileInputs.cache
+/home/lyn/Desktop/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/obj/x86/Debug/MadLib.exe
+/home/lyn/Desktop/_programming/appdev/C#/MadLibSolution/MadLibSolution/MadLib/obj/x86/Debug/MadLib.pdb
