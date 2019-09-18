@@ -142,21 +142,6 @@ namespace MadLib
 
         }
 
-        /* private static void checkIfZero(double number)
-        {
-            if(number <= 0 || number > 1000000)
-            {
-                getNum();
-            }
-        }
-
-       private static double getNum()
-        {
-            Console.Write("Enter a number 1-1000000: ");
-            double number = Convert.ToDouble(Console.ReadLine());
-            return number;
-        }*/
-
         public static void madLib2()
         {
             Console.Clear();
